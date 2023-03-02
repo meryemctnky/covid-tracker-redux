@@ -34,3 +34,7 @@ This app built with [Vite](https://vitejs.dev/) + [React](https://reactjs.org/)
   ```sh
   yarn run dev
    ```
+
+## Screenshot
+![covid-image](/src/assets/photo4.jpg)
+
